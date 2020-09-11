@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Keller</h1>
 <h3 align="center">A student developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voxen4" alt="voxen4" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=voxen4" alt="voxen4" /> </p> --> 
 
 - 🔭 I’m currently working on [Clerkvest](https://clerkvest.com/)
 
